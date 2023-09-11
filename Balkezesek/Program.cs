@@ -36,7 +36,7 @@ namespace balkezesek
             {
                 adatok.Add(new Balkezesek(olvas.ReadLine()));
             }
-            int i, j;
+            int i;
             int adatokszama = adatok.Count;
 
             Console.WriteLine("3. feladat: {0}", adatokszama);
